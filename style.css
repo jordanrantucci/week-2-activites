@@ -1,12 +1,19 @@
-.paragraph1 {
-    font-weight:bolder;
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+.thought1{ 
+    font-family: 'Architects Daughter';
+
 }
 
-.paragraph2 {
-    font-size: 24px;
+.thought2{ 
+    font-family: 'Comic Neue';
 
 }
 
-.paragraph3 {
-    line-height: 50px;
+.thought3 {
+    font-family: 'Quicksand';
 }
